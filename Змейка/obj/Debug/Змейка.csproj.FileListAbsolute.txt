@@ -1,0 +1,14 @@
+C:\Users\rysla\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\rysla\source\repos\Змейка\Змейка\bin\Debug\Змейка.exe
+C:\Users\rysla\source\repos\Змейка\Змейка\bin\Debug\Змейка.pdb
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.csprojAssemblyReference.cache
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\MainWindow.g.cs
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\App.g.cs
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка_MarkupCompile.cache
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка_MarkupCompile.lref
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\MainWindow.baml
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.g.resources
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.exe
+C:\Users\rysla\source\repos\Змейка\Змейка\obj\Debug\Змейка.pdb

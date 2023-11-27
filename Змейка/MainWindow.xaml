@@ -1,0 +1,14 @@
+﻿<Window x:Name="sneak" x:Class="Змейка.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Змейка"
+        mc:Ignorable="d"
+        Title="Принтер" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Canvas x:Name="Map">
+        <Button Content="Нарисовать круг" Height="49" Canvas.Left="616" Canvas.Top="45" Width="115" Click="Button_Click"/>
+        <Button Content="Нарисовать квадрат" Height="41" Canvas.Left="616" Canvas.Top="129" Width="115" Click="Button_Click_1"/>
+
+    </Canvas>
+</Window>
